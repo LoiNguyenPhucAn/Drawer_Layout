@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="title_item_Sea">Sea</string>
+    <string name="title_item_mammal">Mammal</string>
+    <string name="title_item_Bird">Bird</string>
+    <string name="open">OpenDrawerLayout</string>
+    <string name="close">CloseDrawerLayout</string>
+</resources>
